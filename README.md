@@ -75,8 +75,10 @@ Terraform ──► AWS (security group, instancja EC2, Elastic IP)
 - Pipeline z `terraform plan` w pull requestach.
 
 ## Zrzuty ekranu
-
-`docs/zrzuty-ekranu`
+![image alt](docs/zrzuty-ekranu/Strona z kłódką HTTPS.png)
+![image alt](docs/zrzuty-ekranu/Wynik sshd -T.png)
+![image alt](docs/zrzuty-ekranu/Zielony przebieg w GitHub Actions.png)
+![image alt](docs/zrzuty-ekranu/terraform apply.png)
 
 - Strona z kłódką HTTPS
 - Wynik `sshd -T` z `permitrootlogin no` i `passwordauthentication no`
