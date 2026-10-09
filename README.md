@@ -80,5 +80,5 @@ Terraform ──► AWS (security group, instancja EC2, Elastic IP)
 
 - Strona z kłódką HTTPS
 - Wynik `sshd -T` z `permitrootlogin no` i `passwordauthentication no`
-- `terraform plan` / `apply`
+- `terraform apply`
 - Zielony przebieg w GitHub Actions
