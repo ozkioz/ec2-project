@@ -76,7 +76,7 @@ Terraform ──► AWS (security group, instancja EC2, Elastic IP)
 
 ## Zrzuty ekranu
 
-`~/ec2-project/docs/zrzuty-ekranu`
+`docs/zrzuty-ekranu`
 
 - Strona z kłódką HTTPS
 - Wynik `sshd -T` z `permitrootlogin no` i `passwordauthentication no`
